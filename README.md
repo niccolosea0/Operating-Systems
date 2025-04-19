@@ -1,62 +1,58 @@
-#Operating Systems – Course Repository
+Operating Systems – Course Repository
+Welcome to my personal repository for the Operating Systems course (Course Code: CS302) at Tbilisi State University. Throughout the semester, I’ll be uploading lecture notes, lab work, code examples, and anything else useful for understanding how operating systems work under the hood.
 
-Hey there! 👋
-This is my personal repository for the Operating Systems course (CS302) at Tbilisi State University. Throughout the semester, I’ll be uploading lecture notes, labs, code examples, and anything else I find useful while learning how operating systems work under the hood.
+🧠 Course Overview
+Operating systems are the backbone of any computer system — they manage everything from executing programs and handling memory to managing security. In this course, we explore how operating systems function internally and interact with hardware and software.
 
-🧠 What This Course Is About
-Operating systems are the core of any computer system — they manage everything from running programs to handling memory and keeping things secure. In this course, we explore how all of that actually works.
+Topics Covered
+What is an OS? – Introduction, history, and significance
 
-🗂 Topics We Cover
-Here's a quick overview of the key topics:
+Processes & Threads – Executing programs and concurrency
 
-What is an OS? – Intro, history, and why they matter
+CPU Scheduling – Deciding which process runs next
 
-Processes & Threads – Running programs and doing things in parallel
+Memory Management – RAM, virtual memory, paging, segmentation
 
-CPU Scheduling – How the OS decides what to run next
+File Systems – Behind-the-scenes file and directory management
 
-Memory Management – RAM, virtual memory, paging, and segmentation
+Inter-Process Communication – How processes exchange data
 
-File Systems – How files and folders are organized behind the scenes
+Synchronization – Semaphores, mutexes, race conditions
 
-Inter-Process Communication – How programs talk to each other
+Deadlocks – Detection, avoidance, and prevention
 
-Synchronization – Semaphores, mutexes, and keeping things in sync
+I/O Systems – Managing hardware like disks, keyboards, etc.
 
-Deadlocks – When processes get stuck and how to avoid it
+Security & Protection – Safeguarding resources and access control
 
-I/O Systems – How the OS handles keyboards, disks, etc.
+Distributed & Multi-core Systems – Parallelism and system communication
 
-Security & Protection – Keeping the system and data safe
+🧪 Repository Structure
+notes/ – Summary notes from lectures and reading material
 
-Distributed & Multi-core Systems – Going beyond one machine or core
+labs/ – Hands-on C code exercises on OS concepts
 
-🧪 What You’ll Find Here
-notes/ – Summary notes from lectures and readings
+assignments/ – Coursework, homework, and mini-projects
 
-labs/ – Practical C code exploring OS concepts like process creation, memory, and file handling
+extras/ – Additional material like cheat sheets or helpful resources
 
-assignments/ – Any coursework or mini-projects
+🛠️ Tools & Technologies
+C Programming Language
 
-extras/ – Cool things I find along the way (cheatsheets, examples, etc.)
+Linux/Unix Environments
 
-🛠 Tech Stack
-C Language
-
-Linux/Unix
-
-Bash/Shell
+Bash / Shell Scripting
 
 GCC Compiler
 
 Git & GitHub
 
-📘 Recommended Books
+📚 Recommended Books
 Operating System Concepts by Silberschatz, Galvin, Gagne
 
 Modern Operating Systems by Andrew S. Tanenbaum
 
 Principles of Operating Systems by N. Chauhan
 
-📌 Stay tuned for more updates as the course goes on!
-Feel free to explore, learn, or fork anything you find helpful. 😄
+📌 Stay Updated!
+This repository will continue to evolve throughout the course. Feel free to explore, clone, or fork anything that might help in your learning journey. Happy coding! 
