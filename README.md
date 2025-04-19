@@ -1,4 +1,5 @@
-Operating Systems – Course Repository
+#Operating Systems – Course Repository
+
 Hey there! 👋
 This is my personal repository for the Operating Systems course (CS302) at Tbilisi State University. Throughout the semester, I’ll be uploading lecture notes, labs, code examples, and anything else I find useful while learning how operating systems work under the hood.
 
